@@ -1,6 +1,11 @@
 Test Download to local
 Test Line 2 for checkout
+<<<<<<< HEAD
 HI Conflict
+=======
+New LINE TO CONFLICT
+
+>>>>>>> master
 
 Testing Line Next
 Editing for file
